@@ -1,0 +1,76 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jun 25, 2015, 4:42:08 PM
+    Author     : Mugusca
+*/
+
+.navbar-header .navbar-brand{
+    
+    font-size: 2.4em;
+    font-weight: 400;
+    
+}
+
+.container .navbar-toggle{
+    background-color: red;
+}
+
+.container .navbar-header .navbar-toggle .icon-bar{
+    background-color: white;
+}
+@media only screen
+and (max-width: 768px){
+    .container .navbar-collapse.in{
+    background-color: rgb(0,0,0);
+}
+}
+
+h2{
+    color: whitesmoke;
+    background-color: yellowgreen;
+    text-align: center;
+}
+
+
+
+
+.container .navbar-text{
+    //background-color: yellow;
+    //background: url(../..//img/webcam-toy-photo2.jpg);
+   //background-repeat: no-repeat;
+   //padding-right: 50px;
+  // height: 20px;
+  // width: 20px;
+}
+
+.container .navbar{
+    background-color: #ffffff;
+}
+
+
+.container .navbar-text h3{
+   // color: red;
+    padding-right: 45px;
+    margin-top: -60px;
+}
+.chatadmin{
+    background-color: greenyellow;
+    width: 60%;
+   height: 30px;
+   //left: 40%;
+   text-align: center;
+}
+.chats{
+    //background-color:whitesmoke;
+    width: 60%;
+    height: 30px;
+   // text-align: center;
+}
+.login{
+    
+    background-
+}
